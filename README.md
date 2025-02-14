@@ -1,4 +1,4 @@
-# Embedded System Design: Temperature-Based LED & Motor Control Using PIC16F877A
+# Embedded System Design: Temperature-Based LED & Push_Button-Based Motor Control Using PIC16F877A
 This repository contains an embedded system project that demonstrates **temperature-based LED control** and **push_button-based motor speed & direction control** using the **PIC16F877A** microcontroller. The project is implemented using **Proteus 8.10** for simulation and **MPLAB X IDE with XC8 Compiler** for code development.
 
 ## Repository Structure:
