@@ -58,7 +58,7 @@ The project consists of two main components:
      - Button 3 → Motor runs fast in reverse direction
 
 ## Circuit Diagram
-   ![Circuit Diagram](Documentation/Circuit_Diagram.png)
+   ![Circuit Diagram](Documentation/Circuit_Diagram.jpg)
 
 ## **Installation**
 ### **1. Clone the Repository**
